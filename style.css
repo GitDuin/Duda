@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+    background-color: #FFE6E6;
+    font-family: oswald;
+}
+h1, h2, .purple{
+    color: #7469B6;
+}
+
+
+a{
+    color: #7469B6;
+}
+a:hover{
+    color: #AD88C6;
+}
+a:focus{
+    color: #AD88C6;
+}
+
+.heart-sidebar{
+    position: fixed;
+    left: 3%;
+}
+
+ul{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+div .col img{
+    width: 200px;
+}
+div{
+    color: #7469B6;
+}
+
+.titulo-topicos{
+    font-size: 5vw;
+}
+
+.titulo{
+    font-size: 6vw;
+}
+.basico{
+    padding-top: 4vw;
+}
+.basico-titulo{
+    padding-bottom: 5vw;
+}
